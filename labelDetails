@@ -1,0 +1,17 @@
+[
+      {labelTagId:'74000174000810000001',labelType:'SSTK',labelStatus:'Received',slotId:'P0001',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000002',labelType:'SSTK',labelStatus:'Received',slotId:'P0002',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000003',labelType:'SSTK',labelStatus:'Received',slotId:'P0003',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000004',labelType:'SSTK',labelStatus:'Available',slotId:'P0004',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000005',labelType:'SSTK',labelStatus:'Received',slotId:'P0005',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000006',labelType:'SSTK',labelStatus:'Received',slotId:'P0006',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000007',labelType:'SSTK',labelStatus:'Received',slotId:'P0007',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000008',labelType:'SSTK',labelStatus:'Available',slotId:'P0008',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000009',labelType:'SSTK',labelStatus:'Received',slotId:'P0009',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000010',labelType:'SSTK',labelStatus:'Received',slotId:'P0010',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000011',labelType:'SSTK',labelStatus:'Received',slotId:'P0011',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000012',labelType:'SSTK',labelStatus:'Available',slotId:'P0012',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000013',labelType:'SSTK',labelStatus:'Received',slotId:'P0013',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000014',labelType:'SSTK',labelStatus:'Received',slotId:'P0014',availQty:10,physicalQty:10},
+      {labelTagId:'74000174000810000015',labelType:'SSTK',labelStatus:'Received',slotId:'P0015',availQty:10,physicalQty:10}
+]
