@@ -1,3 +1,4 @@
+     [
       {"labelTagId":"74000174000810000001","labelType":"SSTK","labelStatus":"Received","slotId":"P0001","availQty":10,"physicalQty":10}
       {"labelTagId":"74000174000810000002","labelType":"SSTK","labelStatus":"Received","slotId":"P0002","availQty":10,"physicalQty":10}
       {"labelTagId":"74000174000810000003","labelType":"SSTK","labelStatus":"Received","slotId":"P0003","availQty":10,"physicalQty":10}
@@ -13,3 +14,4 @@
       {"labelTagId":"74000174000810000013","labelType":"SSTK","labelStatus":"Received","slotId":"P0013","availQty":10,"physicalQty":10}
       {"labelTagId":"74000174000810000014","labelType":"SSTK","labelStatus":"Received","slotId":"P0014","availQty":10,"physicalQty":10}
       {"labelTagId":"74000174000810000015","labelType":"SSTK","labelStatus":"Received","slotId":"P0015","availQty":10,"physicalQty":10}
+]
