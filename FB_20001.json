@@ -1,0 +1,15 @@
+[
+{
+   "po_nbr": "7467131010",
+   "po_order_date": "3/5/2017",
+   "receiver": "20001",
+   "appointment": "900002",
+   "po_line": "1",
+   "item_nbr": "66666",
+   "fb_qty": "3",
+   "fb_wgt": null,
+   "wac_ind": "y",
+   "ltm_cost": "10",
+   "whs_rtn_rsn": "1"
+ }
+ ]
