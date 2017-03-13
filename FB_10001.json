@@ -1,0 +1,67 @@
+[
+ {
+   "po_nbr": "7467120909",
+   "po_order_date": "3/1/2017",
+   "receiver": "10001",
+   "appointment": "900001",
+   "po_line": "1",
+   "item_nbr": "11111",
+   "fb_qty": "5",
+   "fb_wgt": "50",
+   "wac_ind": "y",
+   "ltm_cost": "5",
+   "whs_rtn_rsn": "1"
+ },
+ {
+   "po_nbr": "7467120909",
+   "po_order_date": "3/1/2017",
+   "receiver": "10001",
+   "appointment": "900001",
+   "po_line": "2",
+   "item_nbr": "22222",
+   "fb_qty": "10",
+   "fb_wgt": "100",
+   "wac_ind": "y",
+   "ltm_cost": "6",
+   "whs_rtn_rsn": "1"
+ },
+ {
+   "po_nbr": "7467120909",
+   "po_order_date": "3/1/2017",
+   "receiver": "10001",
+   "appointment": "900001",
+   "po_line": "3",
+   "item_nbr": "33333",
+   "fb_qty": "15",
+   "fb_wgt": "150",
+   "wac_ind": "y",
+   "ltm_cost": "7",
+   "whs_rtn_rsn": "1"
+ },
+ {
+   "po_nbr": "7467120909",
+   "po_order_date": "3/1/2017",
+   "receiver": "10001",
+   "appointment": "900001",
+   "po_line": "4",
+   "item_nbr": "44444",
+   "fb_qty": "20",
+   "fb_wgt": "200",
+   "wac_ind": "y",
+   "ltm_cost": "8",
+   "whs_rtn_rsn": "1"
+ },
+ {
+   "po_nbr": "7467120909",
+   "po_order_date": "3/1/2017",
+   "receiver": "10001",
+   "appointment": "900001",
+   "po_line": "5",
+   "item_nbr": "55555",
+   "fb_qty": "25",
+   "fb_wgt": "250",
+   "wac_ind": "y",
+   "ltm_cost": "9",
+   "whs_rtn_rsn": "1"
+ }
+]
